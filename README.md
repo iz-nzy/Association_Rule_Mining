@@ -1,6 +1,6 @@
 # Customer Personality Analysis
 
-For Customer Personality, there are 2 main parts
+For Customer Personality Analysis, there are 2 main parts
 1) Customer Segmentation
 2) Association Rule Mining
 
