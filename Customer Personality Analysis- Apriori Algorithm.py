@@ -31,7 +31,7 @@ warnings.filterwarnings('ignore')
 
 # %%
 #Loading the dataset
-data = pd.read_csv("D:/Documents/Personal/Self Projects/Kaggle-Customer Personality Analysis/Customer Personality Analysis/marketing_campaign.csv", sep="\t")
+data = pd.read_csv("marketing_campaign.csv", sep="\t")
 print("Number of datapoints:", len(data))
 
 # %%
