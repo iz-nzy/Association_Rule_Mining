@@ -4,10 +4,10 @@ For Customer Personality, there are 2 main parts
 1) Customer Segmentation
 2) Association Rule Mining
 
-**Segmentation**
+**Segmentation** `<br>`
 Customer Segmentation are usually first defined by business rules. Else, we can use clustering techniques to segment customers
 
-**Association Rule Mining**
+**Association Rule Mining** `<br>`
 Association rule mining is a data mining technique used to discover interesting relationships or patterns in large datasets. It focuses on finding associations or dependencies between items based on their co-occurrence in transactions or events.
 
 The most commonly used algorithm for association rule mining is the Apriori algorithm.
